@@ -1,3 +1,13 @@
+## 🧪 Como Rodar o Projeto
+
+```bash
+# Instalar dependências
+npm install
+
+# Iniciar aplicação em modo desenvolvimento
+npm run dev
+````
+
 ----------------------------------
 ESPANHOL
 ----------------------------------
